@@ -1,8 +1,8 @@
 return {
 	bot_api_key = '',
-	admin = 23646077,
-	log_chat = -1001057801239,
-	channel = '@groupbutler_ch', --channel username with the '@'
+	admin = 191827236,
+	log_chat = -1001057086275,
+	channel = '@JazrO_MaD', --channel username with the '@'
 	languages = 'languages.lua',
 	plugins = {
 		'onmessage.lua', --THIS HAVE TO BE THE FIRST: IF AN USER IS SPAMMING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
